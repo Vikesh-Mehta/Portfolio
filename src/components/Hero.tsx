@@ -59,7 +59,7 @@ const Hero = () => {
             </motion.div>
             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               <a 
-                href="https://drive.google.com/file/d/1lA0eFsBtzCArkamzmBOqwiXqXeu0B-Gr/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1Nlum69-ac45MenF2RWToWLK7z9sLeGCK/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
